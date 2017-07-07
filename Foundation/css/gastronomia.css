@@ -1,0 +1,56 @@
+.logo-img {
+  width: 30%;
+}
+
+body {
+  background: url(../img/fondo.jpg);
+  background-attachment: scroll;
+  background-repeat: repeat;
+  background-position: center center;
+  background-size: cover;
+  font-family: 'Lobster', cursive;
+}
+
+header .h1 {
+  font-size: 12px;
+}
+
+.callout {
+  font-family: 'Lobster', cursive;
+}
+
+img {
+  max-height: 250px;
+}
+
+div.secondary.callout.text-center {
+  min-height: 242px;
+}
+
+div.secondary {
+  background: white;
+}
+
+a {
+  color: #ff5733;
+}
+
+a:hover, a:focus {
+  background: #D4AC0D;
+  color: white;
+}
+
+li {
+  list-style-type: none;
+  list-style-position: inside;
+  background: white;
+  display: block;
+}
+
+.side-nav .a {
+  color: #900c3f;
+}
+
+.fuente {
+  font-family: 'Lobster', cursive;
+}

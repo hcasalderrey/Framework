@@ -1,0 +1,36 @@
+.music-body {
+  background-image: linear-gradient(90deg, #a5bfce, #FFFFFF);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  min-height: 500px;
+  border-radius: 0px !important;
+  margin-bottom: 0px;
+}
+
+.navbar .active {
+  color: #000;
+  background-color: white;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+.logo-img {
+  width: 100px;
+}
+
+.contenido {
+  background-color: rgba(8, 45, 94, 0.15);
+  border-radius: 5px;
+}
+
+.espacio {
+  margin-top: 15px;
+}
+
+.container-fluid {
+  margin-top: 7px;
+}

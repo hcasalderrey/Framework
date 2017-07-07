@@ -1,0 +1,23 @@
+.slogan {
+  float: left;
+  width: 70%;
+}
+
+.barra-superior {
+  min-height: 4rem;
+}
+
+.logo {
+  width: 50%;
+  float: left;
+}
+
+body {
+  font-family: 'Architects Daughter';
+  font-size: 22px;
+}
+
+.presentacion {
+  font-family: 'Architects Daughter';
+  font-size: 15px;
+}
